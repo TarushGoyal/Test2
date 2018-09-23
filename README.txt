@@ -1,1 +1,1 @@
-First PR gets a Tshirt
+First PR gets a Tshir
